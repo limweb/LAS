@@ -1,4 +1,4 @@
-# LAS 
+# LAS  V 2.0
 
     // Read from data
     $myfile = fopen("example.las", "r") or die("Unable to open file!");
